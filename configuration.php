@@ -13,9 +13,9 @@ class JConfig {
 	public $debug_lang = '0';
 	public $dbtype = 'mysql';
 	public $host = 'localhost';
-	public $user = 'u569845708_ders';
+	public $user = 'root';
 	public $password = 'zubiri';
-	public $db = 'u569845708_dw32';
+	public $db = 'joomlaRuben';
 	public $dbprefix = 'jo_';
 	public $live_site = '';
 	public $secret = 'oG5QGTXVsYYVCChu';
